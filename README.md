@@ -70,7 +70,7 @@
 - 「出店申し込み」のページの生成のみ
 - 「出店申し込み」ページはGoogleフォームを使用する可能性あり
 
-### お越しの方へ(https://rojima.sakura.ne.jp/wp-admin/post.php?post=208&action=edit)
+### お越しの方へ(https://rojima.sakura.ne.jp/qa/)
 - ページの生成のみ
 - アクセスの掲載
 - Q&Aの掲載
