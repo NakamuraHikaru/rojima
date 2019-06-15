@@ -52,28 +52,28 @@
 
 ## 各メニューの現在状況
 ### TOP(https://rojima.sakura.ne.jp/)
-- ページの生成のみ
+- 最近の投稿を５件まで表示
 
 ### Rojimaとは(https://rojima.sakura.ne.jp/about/)
-- 以前に作ってあったままの状態
+- 以前に作ってあったまま
 
-### 出店者リスト(https://rojima.sakura.ne.jp/出店者)
-- 回ごとに出店者を掲載することは可能
-- "記事"として扱われてしまっているため、ブログ記事との棲み分けができていない
-
-### ブログ(https://rojima.sakura.ne.jp/ブログ記事一覧)
-- 記事一覧表示
+### ブログ
+- 記事一覧(https://rojima.sakura.ne.jp/ブログ記事一覧)
 - 記事詳細ページ
+	- 記事一覧から記事を選ぶことで詳細ページが表示されます
 
 ### 出店者の方へ
-- 「出店者申し込みについて」のページの生成のみ
-- 「出店申し込み」のページの生成のみ
-- 「出店申し込み」ページはGoogleフォームを使用する可能性あり
+- 出店者申し込みについて(https://rojima.sakura.ne.jp/%E5%87%BA%E5%BA%97%E8%80%85%E7%94%B3%E3%81%97%E8%BE%BC%E3%81%BF%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/)
+- -「出店申し込み」ページはGoogleフォームを使用する可能性あり-
+- 出店者申し込み
+	- ナビゲーションバーから申し込みフォームにいけます
+	- 現状はgoogleフォームにしてます
+- Q&A(https://rojima.sakura.ne.jp/%E5%87%BA%E5%BA%97%E8%80%85qa/)
 
-### お越しの方へ(https://rojima.sakura.ne.jp/qa/)
-- ページの生成のみ
-- アクセスの掲載
-- Q&Aの掲載
+### お越しの方へ
+- 出店者一覧(https://rojima.sakura.ne.jp/%E5%87%BA%E5%BA%97%E8%80%85/)
+- アクセスの掲載(https://rojima.sakura.ne.jp/access/)
+- Q&Aの掲載(https://rojima.sakura.ne.jp/qa/)
 
 ### お問い合わせ
 - 未着手
